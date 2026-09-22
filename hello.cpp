@@ -1,5 +1,5 @@
 # include <iostream>
-int main(){
-    std::cout<<"hell world£¡"<<std::endl;
+int main(void){
+    std::cout<<"hell worldÂ£Â¡"<<std::endl;
     return 0;
 }
