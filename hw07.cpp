@@ -25,4 +25,5 @@ int main(){
     else{
         std::cout<<"false";
     }
+    return 0;
 }
