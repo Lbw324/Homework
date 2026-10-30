@@ -70,4 +70,5 @@ cd build
 - 六张基础结果图由自己程序生成：`lena_marked.png`、`lena_roi.png`、`coins_binary.png`、`coins_counted.png`、`sudoku_points.png`、`sudoku_corrected.png`。
 
 ## AI 使用说明
-- 第二题开始有的硬币被识别多次，求助了一次ai，让他帮我看了看代码；
+- 第二题开始有的硬币被识别多次，求助了一次AI，让他帮我看了看代码；
+- 让AI帮忙写了README文件
